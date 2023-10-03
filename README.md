@@ -151,7 +151,7 @@ Must include areas with their borders.
 
 The center of the circle is **(-0.5; 0.5)**, and its radius is **1.5**.
 * A - **(0; 1)**
-* B - **(-3; 1)**
+* B - **(-3; -1)**
 
 ### Task 2
 
